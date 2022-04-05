@@ -1,6 +1,6 @@
 package com.tistory.workshop6349.object.builder.pizza;
 
-public class PizzaMain {
+public class Pizzeria {
 
     public static void main(String[] args) {
         BusanPizza busanPizza = new BusanPizza.Builder(BusanPizza.Size.MEDIUM)
